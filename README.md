@@ -5,7 +5,7 @@ The language that I used is Java.
 At first the program will calculate the labor cost by collecting employees name, total weekly hour that they worked, and their hourly rate.
 Type yes to add another employee.
 If you type no it will calculate the total employee cost. Also it will print the employee name and their weekly hour and their rate.
-Also it will print the total employee that worked. And the it will print the total hours that all employee worked.
+Also it will print the total employee that worked. And then it will print the total hours that all employee worked.
 
 
 After that it will calculate the total sale by coleecting the product name and the price of the product from user.
