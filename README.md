@@ -11,5 +11,4 @@ Also it will print the total employee that worked. And the it will print the tot
 After that it will calculate the total sale by coleecting the product name and the price of the product from user.
 Also it will show the summary of sales.
 
- For clear understanding of my project, I added a video on this project you can downlaod this and watch it, It ill show the output of this
-program.(The first File)
+ For clear understanding of this program, I added a video on this project you can downlaod this and watch it, It ill show the output of this program.(The first File)
