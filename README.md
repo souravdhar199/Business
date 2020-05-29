@@ -1,5 +1,5 @@
 # Business
-If you don't want to read this file I added a video on this project you can downlaod this and watch it, It ill show the output of this
+If you don't want to read this file, I added a video on this project you can downlaod this and watch it, It ill show the output of this
 program.
 
 This program is made for small business owner to keep track of their weekly sales and labor cost.
