@@ -1,6 +1,4 @@
 # Small Business
-If you don't want to read this file, I added a video on this project you can downlaod this and watch it, It ill show the output of this
-program.(The first File)
 
 This program is made for small business owner to keep track of their weekly sales and labor cost.
 The language that I used is Java.
@@ -11,4 +9,7 @@ Also it will print the total employee that worked. And the it will print the tot
 
 
 After that it will calculate the total sale by coleecting the product name and the price of the product from user.
-Also it will show the summary of sales. 
+Also it will show the summary of sales.
+
+ For clear understanding of my project, I added a video on this project you can downlaod this and watch it, It ill show the output of this
+program.(The first File)
