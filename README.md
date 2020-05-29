@@ -1,6 +1,6 @@
 # Business
 If you don't want to read this file, I added a video on this project you can downlaod this and watch it, It ill show the output of this
-program.
+program.(The first File)
 
 This program is made for small business owner to keep track of their weekly sales and labor cost.
 The language that I used is Java.
