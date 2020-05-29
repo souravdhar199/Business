@@ -1,4 +1,4 @@
-# Business
+# Small Business
 If you don't want to read this file, I added a video on this project you can downlaod this and watch it, It ill show the output of this
 program.(The first File)
 
