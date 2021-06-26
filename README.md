@@ -1,4 +1,4 @@
-# Small Business
+# Business sales tracker
 
 This program is made for small business owner to keep track of their weekly sales and labor cost.
 The language that I used is Java.
